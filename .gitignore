@@ -1,0 +1,8 @@
+# Wyklucz pliki tymczasowe
+*.tfstate.backup
+*.tfplan
+
+# Wyklucz pliki stanu Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
